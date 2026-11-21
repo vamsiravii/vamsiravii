@@ -19,6 +19,6 @@ Second-year Computer Science student at **Manipal Institute of Technology**, wor
 
 ## Tech
 
-**Languages:** C, C++, Python, Java, TypeScript
-**Embedded:** STM32 (HAL, CubeIDE), Arduino, Teensy, I2C/UART/ADC/PWM, LoRa
-**Tools:** Git, React, Vite
+- **Languages:** C, C++, Python, Java, TypeScript
+- **Embedded:** STM32 (HAL, CubeIDE), Arduino, Teensy, I2C/UART/ADC/PWM, LoRa
+- **Tools:** Git, React, Vite
